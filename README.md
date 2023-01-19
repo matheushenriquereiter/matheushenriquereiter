@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+:%29;Be+Welcome!)](https://git.io/typing-svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheushenriquereiter&bg_color=0d1117&color=ffffff&line=9e9e9e&point=00c230&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
