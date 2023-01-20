@@ -31,5 +31,5 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<p align="center"> <img height="32px" src="https://komarev.com/ghpvc/?username=matheushenriquereiter&label=Profile%20views&color=00C130&style=for-the-badge" alt="matheushenriquereiter" /> </p>
+<p align="center"> <img height="38px" src="https://komarev.com/ghpvc/?username=matheushenriquereiter&label=Profile%20views&color=00C130&style=flat" alt="matheushenriquereiter" /> </p>
 
